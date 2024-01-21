@@ -1,0 +1,39 @@
+﻿body
+{
+    background-color: #000000;
+}
+
+section
+{
+    height: 100%;
+    margin: 0 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1
+{
+    color: #ffffff;
+    font-size: 2em;
+}
+
+p
+{
+    color: #ffffff;
+    font-size: 1em;
+}
+
+.block
+{
+    margin: 2.5% 0;
+}
+
+.ImageHolder 
+{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
